@@ -1,0 +1,11 @@
+x=int(input())
+dz=input()
+y=int(input())
+
+if dz=="+" : print(x+y)
+if dz=="-" : print(x-y)
+if dz=="/" : print(x/y)
+if dz=="//" : print(x//y)
+if dz=="*" : print(x*y)
+if dz=="%" : print(x%y)
+if dz=="**" : print(x**y)
